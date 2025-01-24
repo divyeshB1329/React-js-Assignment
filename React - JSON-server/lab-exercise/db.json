@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "dvs",
+      "email": "divyeshbhambhana6355@gmail.com"
+    },
+    {
+      "name": "dvs44",
+      "email": "kukadiyakrish981@gmail.com",
+      "id": "4"
+    },
+    {
+      "name": "Updated Name",
+      "email": "kukadiyakrish981@gmail.com",
+      "id": "41"
+    },
+    {
+      "id": "411",
+      "name": "dvs4",
+      "email": "kukadiyakrish981@gmail.com"
+    }
+  ]
+}
